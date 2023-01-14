@@ -42,4 +42,4 @@ Unlike other procyonids, such as the crab-eating raccoon (Procyon cancrivorus), 
 
 <!-- Change the link below to be an image. Include descriptive alternate text. -->
 
-<picture> <img alt = "Picture of a Raccoon" src = "https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg)"></picture>
+![Picture of a Raccoon](https://curiodyssey.org/wp-content/uploads/bb-plugin/cache/Mammals-Raccoon-square.jpg)
